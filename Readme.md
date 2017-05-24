@@ -1,7 +1,7 @@
 # Личный проект «Пиксель хантер» [![Build status][travis-image]][travis-url]
 
 * Студент: [Vadim Sapovsky](https://up.htmlacademy.ru/ecmascript/2/user/448047).
-* Наставник: `Неизвестно`.
+* Наставник: [Игорь Кузнецов](https://htmlacademy.ru/profile/id201747).
 
 ---
 
